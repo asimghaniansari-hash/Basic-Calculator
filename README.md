@@ -1,4 +1,4 @@
-This is a basic Calculator for learners and beginers to do a project code.
-this is my first project even it is not but this is first  which i upload it on github.
-if like it then share it guys and also use it for improving beginer level.
-in the last this is me, Engineer Asim Ghani Ansari.
+This project is a basic calculator designed for learners and beginners as a practice exercise.
+Although it is not my first coding project, it is the first one I am publishing on GitHub.
+I encourage others to explore, share, and utilize this project to enhance their foundational programming skills.
+Authored by Engineer Asim Ghani Ansari.
